@@ -2,8 +2,7 @@
 
 #title           :Netplan_Configuration.sh
 #description     :This script executes the network configuration and interfaces based on the server type.
-#author          :Khallagh OCloud Team - Shahab, Mohammadreza
-#date            :10 Nov 2021
+#author          :Setareh Nazeri
 #version         :1.0
 #usage           :bash Netplan_Configuration.sh
 #notes           :Vim and Emacs are needed to use this script.
